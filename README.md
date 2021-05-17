@@ -19,9 +19,9 @@
 # Go to folder src of project use pip install antlr4-python3-runtime to install antlr runtime for python
 Use py run.py gen to test status of project
 # Test Scanner and Parser
-Go to main\cosim\parser folder testFile have 4 files lexer.txt resultLexer.txt parser.txt resultParser.txt , you can update for lexer.txt and parser.txt <br/>
-Use py testLexer.py to take scanner result form file lexer.txt and result will be writtern to resultLexer.txt<br\>
-Use py testParser.py to take parser result form file parser.txt and result will be writtern to resulParser.txt<br\>
+Go to main\cosim\parser folder testFile have 4 files lexer.txt resultLexer.txt parser.txt resultParser.txt<br/> You can update for lexer.txt and parser.txt <br/>
+Use py testLexer.py to take scanner result form file lexer.txt and result will be writtern to resultLexer.txt<br/>
+Use py testParser.py to take parser result form file parser.txt and result will be writtern to resulParser.txt<br/>
 # Draw parse tree
 Go to parsetre, in folder test have file 1.txt we can see it as input file type ./exe.sh 1 to visualize parse tree of 1.txt<br/>
 # Draw AST
