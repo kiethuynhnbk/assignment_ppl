@@ -1,0 +1,6 @@
+#include<stdio.h>
+int main()
+{
+    //returny 1
+    return x+y**2;
+}

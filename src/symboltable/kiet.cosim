@@ -1,0 +1,15 @@
+#include<stdio.h>
+int x=1;
+int main(int t)
+{
+    x=10;
+    int k=1+2;
+   // int k=5;
+    int z=check123();
+}
+int check()
+{
+    int i=1;
+    int j=2;
+    return i+j;
+}
