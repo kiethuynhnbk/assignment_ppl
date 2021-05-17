@@ -9,13 +9,13 @@
   +SET CLASSPATH=.;D:\antlr\antlr-4.9.1-complete.jar<br/>
   +java org.antlr.v4.gui.TestRig %*<br/>
 -Add environtment variable for antlr:<br/>
-![image](https://user-images.githubusercontent.com/53758183/118515455-9c7ac600-b75f-11eb-9b80-d51a1cc11bd4.png)
+![image](https://user-images.githubusercontent.com/53758183/118515455-9c7ac600-b75f-11eb-9b80-d51a1cc11bd4.png)<br/>
 -Add file antlr you douwloaded and java jdk bin file to CLASSPATH variable:<br/>
-![image](https://user-images.githubusercontent.com/53758183/118516086-32aeec00-b760-11eb-940b-a4acc7a7721d.png)
+![image](https://user-images.githubusercontent.com/53758183/118516086-32aeec00-b760-11eb-940b-a4acc7a7721d.png)<br/>
 -Add folder antlr and CLASSPATH to PATH variable:<br/>
-![image](https://user-images.githubusercontent.com/53758183/118516426-802b5900-b760-11eb-8a06-1e43d8b927f1.png)
+![image](https://user-images.githubusercontent.com/53758183/118516426-802b5900-b760-11eb-8a06-1e43d8b927f1.png)<br/>
 -Download graphviz.zip and take folder bin and located it in D:\anhkiet\graphviz\Graphviz<br/>
-![image](https://user-images.githubusercontent.com/53758183/118517445-68a0a000-b761-11eb-828b-bbdf805c4a80.png)
+![image](https://user-images.githubusercontent.com/53758183/118517445-68a0a000-b761-11eb-828b-bbdf805c4a80.png)<br/>
 # Go to folder src of project use pip install antlr4-python3-runtime to install antlr runtime for python
 Use py run.py gen to test status of project
 # Test Scanner and Parser
